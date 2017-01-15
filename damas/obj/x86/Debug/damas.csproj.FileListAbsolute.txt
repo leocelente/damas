@@ -1,0 +1,35 @@
+C:\Users\alunoct\AppData\Local\Temporary Projects\damas\bin\Debug\damas.exe
+C:\Users\alunoct\AppData\Local\Temporary Projects\damas\bin\Debug\damas.pdb
+C:\Users\alunoct\AppData\Local\Temporary Projects\damas\obj\x86\Debug\damas.Container.resources
+C:\Users\alunoct\AppData\Local\Temporary Projects\damas\obj\x86\Debug\damas.Jogo.resources
+C:\Users\alunoct\AppData\Local\Temporary Projects\damas\obj\x86\Debug\damas.Pre.resources
+C:\Users\alunoct\AppData\Local\Temporary Projects\damas\obj\x86\Debug\damas.Properties.Resources.resources
+C:\Users\alunoct\AppData\Local\Temporary Projects\damas\obj\x86\Debug\damas.csproj.GenerateResource.Cache
+C:\Users\alunoct\AppData\Local\Temporary Projects\damas\obj\x86\Debug\damas.exe
+C:\Users\alunoct\AppData\Local\Temporary Projects\damas\obj\x86\Debug\damas.pdb
+F:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.exe
+F:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.pdb
+F:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.Container.resources
+F:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.Jogo.resources
+F:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.Pre.resources
+F:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.Properties.Resources.resources
+F:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.csproj.GenerateResource.Cache
+F:\Projetos\Geral\C#(CSharp)\damas\damas\bin\Debug\damas.exe
+F:\Projetos\Geral\C#(CSharp)\damas\damas\bin\Debug\damas.pdb
+F:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.csprojResolveAssemblyReference.cache
+H:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.exe
+H:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.pdb
+H:\Projetos\Geral\C#(CSharp)\damas\damas\bin\Debug\damas.exe
+H:\Projetos\Geral\C#(CSharp)\damas\damas\bin\Debug\damas.pdb
+H:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.csprojResolveAssemblyReference.cache
+H:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.Container.resources
+H:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.Jogo.resources
+H:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.Pre.resources
+H:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.Properties.Resources.resources
+H:\Projetos\Geral\C#(CSharp)\damas\damas\obj\x86\Debug\damas.csproj.GenerateResource.Cache
+F:\Projetos\Geral\C#(CSharp)\Leonardo e Tiago (Damas)\damas\obj\x86\Debug\damas.exe
+F:\Projetos\Geral\C#(CSharp)\Leonardo e Tiago (Damas)\damas\obj\x86\Debug\damas.pdb
+H:\Projetos\Geral\C#(CSharp)\Leonardo e Tiago (Damas)\damas\obj\x86\Debug\damas.exe
+H:\Projetos\Geral\C#(CSharp)\Leonardo e Tiago (Damas)\damas\obj\x86\Debug\damas.pdb
+F:\ \Projetos\Geral\C#(CSharp)\Leonardo e Tiago (Damas)\damas\obj\x86\Debug\damas.exe
+F:\ \Projetos\Geral\C#(CSharp)\Leonardo e Tiago (Damas)\damas\obj\x86\Debug\damas.pdb
